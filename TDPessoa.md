@@ -26,6 +26,3 @@ Objetivo: transição definitiva para Back-End, Análise e Engenharia de Dados.
 ## 📬 Vamos conversar?
 Estou aberto a oportunidades em Back-End, Dados e Automação.  
 [LinkedIn](https://www.linkedin.com/in/thiago-pessoa-190043128/) | [Discord](discordapp.com/users/336673313919074315) | [Email](mailto:thiago.d.pessoa@gmail.com)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TDPessoa&layout=compact&bg_color=222&border_color=30A3DC&title_color=E94D5F&text_color=FFF)    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDPessoa&theme=transparent&bg_color=222&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)    
