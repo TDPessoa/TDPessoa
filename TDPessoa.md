@@ -6,12 +6,12 @@ Experiência prática em Python, SQL e automação de processos.
 Objetivo: transição definitiva para Back-End, Análise e Engenharia de Dados.  
 
 ## 🎓 Formações
-- [Tecnólogo em Banco de Dados](docs/CSTBancoDeDados.pdf)  
-- [BootCamp: Ciência de Dados com Python](docs/DIO_BootcampCienciaDeDadosComPython.pdf)  
-- [Formação Python Developer](docs/DIO_FormacaoPythonDeveloper.pdf)  
-- [Power BI para Business Intelligence e Data Science](docs/DSA_PowerBIParaBusinessIntelligenceEDataScience.pdf)  
-- [Estatistica para Análise de Dados](docs/UniCSul_EstatisticaParaAnaliseDeDados.pdf)  
-- [CS50p](docs/CS50P.pdf)  
+- [Graduação - CST em Banco de Dados](docs/CSTBancoDeDados.pdf)  
+- [Curso - Power BI para Business Intelligence e Data Science](docs/DSA_PowerBIParaBusinessIntelligenceEDataScience.pdf)  
+- [Curso - Estatistica para Análise de Dados](docs/UniCSul_EstatisticaParaAnaliseDeDados.pdf)  
+- [Curso - Formação Python Developer](docs/DIO_FormacaoPythonDeveloper.pdf)  
+- [Curso - BootCamp: Ciência de Dados com Python](docs/DIO_BootcampCienciaDeDadosComPython.pdf)  
+- [Curso - CS50p](docs/CS50P.pdf)  
 
 ## 🛠️ Tecnologias
 - Python (Selenium, Pandas, PyODBC, Web Scraping)  
