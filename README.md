@@ -62,7 +62,8 @@ Principais ferramentas utilizadas em projetos de desenvolvimento back-end, autom
 Ao longo da minha trajetória, desenvolvi soluções internas, automações, aplicativos móveis e projetos GIS aplicados a cenários reais. Meu foco é utilizar tecnologia para reduzir trabalho manual, aumentar a confiabilidade dos dados e apoiar decisões operacionais.  
 
 ### Pipeline de Extração de Dados Operacionais (Python)
-    Ferramenta de coleta automatizada para sistema legado, responsável por extrair, validar e persistir dados operacionais utilizados em análises internas.
+    Ferramenta de coleta automatizada para sistema legado, responsável por extrair, 
+    validar e persistir dados operacionais utilizados em análises internas.
 
 > **Problema**  
 > A plataforma original não disponibilizava todos os campos necessários para análise e exigia coleta manual demorada.
@@ -81,7 +82,9 @@ Ao longo da minha trajetória, desenvolvi soluções internas, automações, apl
 ---
 ### Plataforma Mobile de Gestão Operacional (Kotlin)
 
-    Aplicação Android desenvolvida para digitalizar processos operacionais executados em campo, reduzindo dependência de formulários em papel e aumentando a rastreabilidade das atividades realizadas pelas equipes.
+    Aplicação Android desenvolvida para digitalizar processos operacionais executados 
+    em campo, reduzindo dependência de formulários em papel e aumentando a 
+    rastreabilidade das atividades realizadas pelas equipes.
 
 > **Problema**  
 > Os registros operacionais eram distribuídos entre formulários físicos, sistemas com limitações de preenchimento e controles manuais, dificultando auditorias, análises e acompanhamento em tempo real das operações.
@@ -109,7 +112,8 @@ Ao longo da minha trajetória, desenvolvi soluções internas, automações, apl
 > Kotlin, ObjectBox, Google Sheets, Google Drive, JSON e GIS.
 ---
 ### Plataforma de Monitoramento Operacional (Kotlin)  
-    Aplicação complementar desenvolvida para acompanhamento das equipes em operação e   visualização consolidada dos dados enviados pelos dispositivos de campo.
+    Aplicação complementar desenvolvida para acompanhamento das equipes em operação e
+    visualização consolidada dos dados enviados pelos dispositivos de campo.
 
 > **Problema**  
 > As informações operacionais permaneciam dispersas entre formulários, registros locais e sistemas independentes, dificultando o acompanhamento das equipes durante o plantão.
@@ -129,7 +133,8 @@ Ao longo da minha trajetória, desenvolvi soluções internas, automações, apl
 ---
 
 ### Sistema de Gestão Operacional e Estoque (MS Access)  
-    Desenvolvido para centralizar informações operacionais, controle de estoque, colaboradores, equipes e viaturas em uma única base de dados relacional.  
+    Desenvolvido para centralizar informações operacionais, controle de estoque, 
+    colaboradores, equipes e viaturas em uma única base de dados relacional.  
   
 > **Problema**  
 > Os processos eram distribuídos entre planilhas, controles manuais e conhecimento informal dos usuários.  
@@ -149,8 +154,9 @@ Ao longo da minha trajetória, desenvolvi soluções internas, automações, apl
 ---
 
 ### Digitalização de Processos Operacionais (Google Forms & JotForm)
-
-    Conjunto de formulários desenvolvidos para substituir processos realizados por mensagens em grupos de WhatsApp e registros manuais, transformando informações operacionais em dados estruturados para análise. 
+    Conjunto de formulários desenvolvidos para substituir processos realizados por 
+    mensagens em grupos de WhatsApp e registros manuais, transformando informações
+    operacionais em dados estruturados para análise. 
 > Acesse-os: 
 > - [Formulário de Plantões](https://docs.google.com/forms/d/e/1FAIpQLScz0ZCZTzP2RIpmRJaq9HAGWwqfKTFJwCQ_NObu648BFSSy_g/viewform?usp=header)  
 > - [Formulário de Abastecimento](https://form.jotform.com/261594685021662)  
